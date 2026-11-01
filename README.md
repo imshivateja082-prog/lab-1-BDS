@@ -10,8 +10,7 @@
 
 ## Live Link
 
-**Deployment URL:** PASTE YOUR RENDER / RAILWAY / CLOUD IDE URL HERE
-(If the project cannot be deployed, write the reason here and add Postman screenshots of every endpoint.)
+**Deployment URL:** https://lab-1-bds.onrender.com
 
 ## Objective
 
